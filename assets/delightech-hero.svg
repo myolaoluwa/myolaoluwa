@@ -27,7 +27,9 @@
   <rect width="1280" height="390" rx="24" fill="url(#background)"/>
   <rect width="1280" height="390" rx="24" fill="url(#grid)"/>
   <circle cx="1060" cy="155" r="175" fill="url(#orb)"/>
-  <circle cx="1050" cy="145" r="72" fill="#38bdf8" opacity=".13" filter="url(#glow)"/>
+  <circle cx="1050" cy="145" r="72" fill="#38bdf8" opacity=".1" filter="url(#glow)">
+    <animate attributeName="opacity" values=".06;.16;.06" dur="8s" repeatCount="indefinite"/>
+  </circle>
   <path d="M0 316C204 257 319 367 500 307s260-101 398-49 218 82 382 8v124H0z" fill="#0a1322" opacity=".5"/>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
