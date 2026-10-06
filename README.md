@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.delightech.net/"><img src="./assets/delightech-mark.svg" width="48" alt="DelighTech logo"></a>
+  <a href="https://www.delightech.net/"><img src="./assets/delightech-mark.svg" width="64" alt="DelighTech official logo"></a>
   <br><strong>DELIGHTECH</strong> &nbsp; <sub>INDEPENDENT SOFTWARE STUDIO</sub>
 </p>
 
