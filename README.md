@@ -95,9 +95,9 @@
 </p>
 
 <details>
-  <summary><strong>How this profile uses GitHub visuals</strong></summary>
+  <summary><strong>About the portfolio data</strong></summary>
   <br>
-  The technology icons are grouped with <a href="https://skillicons.dev/">Skill Icons</a>; repository and analytics cards use <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>. The profile keeps the native GitHub contribution graph as its activity view. Third-party activity-graph and trophy endpoints were unavailable during verification, so they are intentionally not embedded.
+  Technology icons are grouped by discipline, repository cards link directly to their source, and GitHub’s native contribution graph provides the activity view.
 </details>
 
 <p align="center">
