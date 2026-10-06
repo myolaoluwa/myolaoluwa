@@ -1,30 +1,26 @@
 <p align="center">
-  <img src="./assets/delightech-hero.svg" alt="Olaoluwa Moshood — Full-stack developer and founder at DelighTech, building web, mobile, SaaS and AI products" width="100%">
+  <a href="https://www.delightech.net/"><img src="./assets/delightech-mark.svg" width="48" alt="DelighTech logo"></a>
+  <br><strong>DELIGHTECH</strong> &nbsp; <sub>INDEPENDENT SOFTWARE STUDIO</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.delightech.net/"><img src="https://img.shields.io/badge/DelighTech-Visit%20the%20studio-172554?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit DelighTech"></a>
-  <a href="mailto:hello@delightech.net"><img src="https://img.shields.io/badge/Contact-Email-0F766E?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email DelighTech"></a>
-  <a href="https://github.com/myolaoluwa?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-334155?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
+  <img src="./assets/delightech-hero.svg" alt="Olaoluwa Moshood, founder and product engineer at DelighTech. Building digital products for real work: web, mobile, SaaS, AI and integrations." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/myolaoluwa"><img src="https://komarev.com/ghpvc/?username=myolaoluwa&style=flat-square&color=475569&label=PROFILE+VIEWS" alt="Profile views"></a>
+  <a href="https://www.delightech.net/"><img src="https://img.shields.io/badge/STUDIO-DELIGHTECH-18211D?style=flat-square&labelColor=18211D&color=D0F766" alt="DelighTech website"></a>
+  &nbsp;
+  <a href="mailto:hello@delightech.net"><img src="https://img.shields.io/badge/PROJECTS-GET%20IN%20TOUCH-18211D?style=flat-square&labelColor=18211D&color=ED684A" alt="Contact DelighTech"></a>
 </p>
 
-<h2 align="center">Digital products, engineered for real work.</h2>
-
-<p align="center">
-  I’m <strong>Olaoluwa Moshood</strong>, founder and developer at <a href="https://www.delightech.net/">DelighTech</a>.
-  I work with founders, teams, and businesses to turn product ideas into dependable web applications,
-  mobile experiences, SaaS platforms, and practical AI integrations—from first MVP to production.
-</p>
+I’m **Olaoluwa Moshood**, founder and product engineer at [DelighTech](https://www.delightech.net/). I work with businesses and product teams to turn complex needs into useful software—from early product decisions through full-stack delivery.
 
 <table>
   <tr>
-    <td width="33%" valign="top"><strong>01 &nbsp; Product engineering</strong><br>Full-stack web applications and SaaS, designed around the people and workflows they serve.</td>
-    <td width="33%" valign="top"><strong>02 &nbsp; Connected systems</strong><br>APIs, AI-assisted workflows, and business automation, integrated with care.</td>
-    <td width="33%" valign="top"><strong>03 &nbsp; Mobile-first delivery</strong><br>Responsive products, progressive web apps, and Capacitor-based mobile builds.</td>
+    <td width="25%" valign="top"><sub>01 / WEB</sub><br><strong>Applications</strong><br>Responsive products and APIs.</td>
+    <td width="25%" valign="top"><sub>02 / SAAS</sub><br><strong>Business software</strong><br>Tools built around real workflows.</td>
+    <td width="25%" valign="top"><sub>03 / MOBILE</sub><br><strong>Connected products</strong><br>Mobile-first web and app builds.</td>
+    <td width="25%" valign="top"><sub>04 / SYSTEMS</sub><br><strong>AI &amp; integrations</strong><br>Practical automation and APIs.</td>
   </tr>
 </table>
 
@@ -32,79 +28,80 @@
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <strong>FRONTEND</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite&perline=4&theme=light" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Vite"><br>
+    <td width="50%" valign="top">
+      <sub>01 / FRONTEND</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite&perline=7&theme=light" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS and Vite"><br>
       <sub>React · Next.js · TypeScript · JavaScript · HTML · CSS · Vite</sub>
     </td>
-    <td width="33%" align="center" valign="top">
-      <strong>BACKEND &amp; DATA</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&perline=4&theme=light" alt="Node.js, Express, PostgreSQL, Prisma"><br>
-      <sub>Node.js · Express · Next.js API routes · PostgreSQL · Prisma · PGlite</sub>
+    <td width="50%" valign="top">
+      <sub>02 / BACKEND &amp; DATA</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase&perline=5&theme=light" alt="Node.js, Express, PostgreSQL, Prisma and Supabase"><br>
+      <sub>Node.js · Express · PostgreSQL · Prisma · PGlite · Supabase</sub>
     </td>
-    <td width="33%" align="center" valign="top">
-      <strong>PLATFORM &amp; DELIVERY</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,android&perline=4&theme=light" alt="Git, GitHub, Vercel, Android"><br>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / PLATFORM &amp; MOBILE</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,android&perline=4&theme=light" alt="Git, GitHub, Vercel and Android"><br>
       <sub>Git · GitHub Actions · Vercel · Railway · Capacitor · PWA</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / INTEGRATIONS</sub><br><br>
+      <strong>AI provider APIs</strong> &nbsp;·&nbsp; Gmail &amp; Google Calendar<br>
+      WhatsApp Business Cloud &nbsp;·&nbsp; Telegram Bot API<br>
+      Brevo &nbsp;·&nbsp; Web Push &nbsp;·&nbsp; Paystack
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <strong>INTEGRATIONS</strong><br>
-  <sub>AI provider APIs · Gmail &amp; Google Calendar · WhatsApp Business Cloud · Telegram Bot API · Brevo · Web Push</sub>
-</p>
-
 ## Selected work
 
 <p align="center">
-  <a href="https://github.com/myolaoluwa/Elara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=Elara&theme=transparent&hide_border=true" alt="Elara repository card" width="49%"></a>
-  <a href="https://github.com/myolaoluwa/Nomi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=Nomi&theme=transparent&hide_border=true" alt="Nomi repository card" width="49%"></a>
+  <a href="https://github.com/myolaoluwa/Elara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=Elara&bg_color=18211D&title_color=D0F766&text_color=E5EAE5&icon_color=ED684A&hide_border=true" alt="Elara — executive operations workspace" width="49%"></a>
+  <a href="https://github.com/myolaoluwa/Nomi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=Nomi&bg_color=18211D&title_color=D0F766&text_color=E5EAE5&icon_color=ED684A&hide_border=true" alt="Nomi — personal organization dashboard" width="49%"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/myolaoluwa/Oracle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=Oracle&theme=transparent&hide_border=true" alt="Oracle repository card" width="49%"></a>
-  <a href="https://github.com/myolaoluwa/EasyBuyNG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=EasyBuyNG&theme=transparent&hide_border=true" alt="EasyBuyNG repository card" width="49%"></a>
+  <a href="https://github.com/myolaoluwa/Oracle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=Oracle&bg_color=18211D&title_color=D0F766&text_color=E5EAE5&icon_color=ED684A&hide_border=true" alt="Oracle — on-chain intelligence workspace" width="49%"></a>
+  <a href="https://github.com/myolaoluwa/EasyBuyNG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=EasyBuyNG&bg_color=18211D&title_color=D0F766&text_color=E5EAE5&icon_color=ED684A&hide_border=true" alt="EasyBuyNG — responsive client storefront" width="49%"></a>
 </p>
 
 <table>
   <tr>
     <td width="100%" valign="top">
-      <strong>Cashflow</strong> &nbsp; <sub>FINISHED PRODUCT · USED BY REAL USERS</sub><br>
-      Business cashbooks with separate books, member access controls, and an Android implementation built with Capacitor.<br>
-      <a href="https://www.delightech.net/work/cashflow">Explore the DelighTech case study →</a>
+      <sub>DELIGHTECH PRODUCT / IN USE</sub><br>
+      <strong>Cashflow</strong><br>
+      Business cashbooks with member access controls and a Capacitor-based Android implementation.<br>
+      <a href="https://www.delightech.net/work/cashflow">Read the case study →</a>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><strong>More about the selected products</strong></summary>
+  <summary><strong>Project notes</strong></summary>
   <br>
   <ul>
-    <li><strong><a href="https://github.com/myolaoluwa/Elara">Elara</a></strong> — An executive operations workspace for schedules, meetings, tasks, email, and grounded AI-assisted workflows. <a href="https://www.delightech.net/work/elara">Case study</a></li>
-    <li><strong><a href="https://github.com/myolaoluwa/Nomi">Nomi</a></strong> — A personal dashboard connecting finances, activities, tasks, habits, and goals; questions are answered from a user's recorded data. <a href="https://www.delightech.net/work/nomi">Case study</a></li>
-    <li><strong><a href="https://github.com/myolaoluwa/Oracle">Oracle</a></strong> — An on-chain intelligence workspace that connects market signals with token and wallet investigations. The public walkthrough uses sample data. <a href="https://www.delightech.net/work/oracle">Case study</a></li>
-    <li><strong><a href="https://github.com/myolaoluwa/EasyBuyNG">EasyBuyNG</a></strong> — A responsive client storefront with mobile-friendly product discovery. <a href="https://easy-buy-ng.vercel.app/">Live site</a></li>
+    <li><strong><a href="https://github.com/myolaoluwa/Elara">Elara</a></strong> — Executive operations across meetings, tasks, follow-ups, email, and AI-assisted workflows. <a href="https://www.delightech.net/work/elara">Case study</a></li>
+    <li><strong><a href="https://github.com/myolaoluwa/Nomi">Nomi</a></strong> — A personal dashboard for finances, activities, tasks, habits, and goals. <a href="https://www.delightech.net/work/nomi">Case study</a></li>
+    <li><strong><a href="https://github.com/myolaoluwa/Oracle">Oracle</a></strong> — An on-chain intelligence workspace; the public walkthrough uses sample data. <a href="https://www.delightech.net/work/oracle">Case study</a></li>
+    <li><strong><a href="https://github.com/myolaoluwa/EasyBuyNG">EasyBuyNG</a></strong> — A responsive client storefront. <a href="https://easy-buy-ng.vercel.app/">Live site</a></li>
   </ul>
 </details>
 
-## GitHub analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myolaoluwa&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B&icon_color=0F766E&rank_icon=github" alt="GitHub statistics" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myolaoluwa&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B" alt="Most used languages on GitHub" width="49%">
-</p>
-
 <details>
-  <summary><strong>About the portfolio data</strong></summary>
+  <summary><strong>GitHub activity &amp; language statistics</strong></summary>
   <br>
-  Technology icons are grouped by discipline, repository cards link directly to their source, and GitHub’s native contribution graph provides the activity view.
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=myolaoluwa&show_icons=true&hide_border=true&bg_color=18211D&title_color=D0F766&text_color=E5EAE5&icon_color=ED684A&rank_icon=github" alt="GitHub statistics" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myolaoluwa&layout=compact&hide_border=true&bg_color=18211D&title_color=D0F766&text_color=E5EAE5" alt="Most used languages on GitHub" width="49%">
+  </p>
 </details>
 
 <p align="center">
-  <strong>Have a product to build?</strong><br>
-  <sub>Let’s discuss your web app, SaaS, mobile product, or an integration that can make work simpler.</sub><br><br>
-  <a href="https://www.delightech.net/"><img src="https://img.shields.io/badge/Explore-DelighTech-172554?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore DelighTech"></a>
-  <a href="mailto:hello@delightech.net"><img src="https://img.shields.io/badge/Start-a%20conversation-0F766E?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a conversation by email"></a>
+  <strong>Have a product problem worth solving?</strong><br>
+  <sub>Tell me what you’re building. We can explore the right next step together.</sub><br><br>
+  <a href="https://www.delightech.net/"><img src="https://img.shields.io/badge/VISIT-DELIGHTECH-18211D?style=flat-square&labelColor=18211D&color=D0F766" alt="Visit DelighTech"></a>
+  &nbsp;
+  <a href="mailto:hello@delightech.net"><img src="https://img.shields.io/badge/EMAIL-HELLO%40DELIGHTECH.NET-18211D?style=flat-square&labelColor=18211D&color=ED684A" alt="Email DelighTech"></a>
 </p>
 
-<p align="center"><sub>Thoughtful product engineering from <a href="https://www.delightech.net/">DelighTech</a> · Lagos, Nigeria · Working with teams worldwide</sub></p>
+<p align="center"><sub>DelighTech · Lagos, Nigeria · Working with teams worldwide</sub></p>
