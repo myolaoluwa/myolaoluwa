@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://www.delightech.net/"><img src="./assets/delightech-mark.svg" width="56" alt="DelighTech logo"></a>
-  <br><strong>DELIGHTECH</strong>
-  <br><sub>PRODUCT DESIGN · FULL-STACK ENGINEERING · DIGITAL SYSTEMS</sub>
+  <a href="https://www.delightech.net/"><img src="./assets/delightech-mark.svg" width="48" alt="DelighTech logo"></a>
+  <br><strong>DELIGHTECH</strong> &nbsp; <sub>INDEPENDENT SOFTWARE STUDIO</sub>
 </p>
 
 <p align="center">
