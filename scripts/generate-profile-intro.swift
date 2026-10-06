@@ -139,7 +139,7 @@ func makeFrame(index: Int) -> CGImage {
     }
 
     let visibleGreeting = String(greeting.prefix(max(0, visibleCharacters)))
-    let greetingWidth = drawText(visibleGreeting, context: context, x: 138, y: 177, size: 43, font: "AvenirNext-DemiBold", fill: white)
+    let greetingWidth = drawText(visibleGreeting, context: context, x: 138, y: 177, size: 46, font: "Baskerville-SemiBold", fill: white)
     if caretIsVisible {
         roundedRect(context, CGRect(x: 145 + greetingWidth, y: 167, width: 3, height: 44), radius: 1.5, fill: coral)
     }
