@@ -1,10 +1,5 @@
 <p align="center">
-  <a href="https://www.delightech.net/"><img src="./assets/delightech-mark.svg" width="64" alt="DelighTech official logo"></a>
-  <br><strong>DELIGHTECH</strong> &nbsp; <sub>INDEPENDENT SOFTWARE STUDIO</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/delightech-hero.svg" alt="Olaoluwa Moshood, founder and product engineer at DelighTech. Building digital products for real work: web, mobile, SaaS, AI and integrations." width="100%">
+  <img src="./assets/intro.gif" alt="Animated introduction: Hi, I'm Olaoluwa Moshood. Full-stack developer, founder of DelighTech, building web, mobile, SaaS, and AI products." width="100%">
 </p>
 
 <p align="center">
