@@ -72,7 +72,9 @@ I’m **Olaoluwa Moshood**, founder and product engineer at [DelighTech](https:/
     <li><strong><a href="https://github.com/myolaoluwa/Elara">Elara</a></strong> — Executive operations across meetings, tasks, follow-ups, email, and AI-assisted workflows. <a href="https://www.delightech.net/work/elara">Case study</a></li>
     <li><strong><a href="https://github.com/myolaoluwa/Nomi">Nomi</a></strong> — A personal dashboard for finances, activities, tasks, habits, and goals. <a href="https://www.delightech.net/work/nomi">Case study</a></li>
     <li><strong><a href="https://github.com/myolaoluwa/Oracle">Oracle</a></strong> — An on-chain intelligence workspace; the public walkthrough uses sample data. <a href="https://www.delightech.net/work/oracle">Case study</a></li>
-    <li><strong><a href="https://www.delightech.net/work/cashflow">Cashflow</a></strong> — Business cashbooks with access controls and an Android implementation. <a href="https://www.delightech.net/work/cashflow">Case study</a></li>
+    <li><strong><a href="https://www.delightech.net/work/cashflow">Cashflow</a></strong> — Business cashbooks with access controls and an Android implementation. <a href="https://www.delightech.net/work/cashflow">Case study</a> (no public source repository).</li>
+    <li><strong><a href="https://github.com/myolaoluwa/Portfolio">DelighTech website</a></strong> — Studio website featuring services, selected products, and case studies; built with Next.js, React, and TypeScript. <a href="https://www.delightech.net/">Visit site</a></li>
+    <li><strong><a href="https://github.com/myolaoluwa/gmail-automation">Gmail and Calendar assistant</a></strong> — A focused, local OAuth automation worker with dry-run behavior enabled by default.</li>
   </ul>
 </details>
 
@@ -91,6 +93,8 @@ I’m **Olaoluwa Moshood**, founder and product engineer at [DelighTech](https:/
   <a href="https://www.delightech.net/"><img src="https://img.shields.io/badge/VISIT-DELIGHTECH-18211D?style=flat-square&labelColor=18211D&color=D0F766" alt="Visit DelighTech"></a>
   &nbsp;
   <a href="mailto:hello@delightech.net"><img src="https://img.shields.io/badge/EMAIL-HELLO%40DELIGHTECH.NET-18211D?style=flat-square&labelColor=18211D&color=ED684A" alt="Email DelighTech"></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@DelighTechNet"><img src="https://img.shields.io/badge/YOUTUBE-DELIGHTECH-18211D?style=flat-square&labelColor=18211D&color=ED684A" alt="DelighTech on YouTube"></a>
 </p>
 
 <p align="center"><sub>DelighTech · Lagos, Nigeria · Working with teams worldwide</sub></p>
