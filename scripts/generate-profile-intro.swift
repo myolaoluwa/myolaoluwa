@@ -6,9 +6,11 @@ import UniformTypeIdentifiers
 
 let width = 1200
 let height = 300
-let framesPerLine = 18
+let framesPerLine = 22
 let fadeFrames = 5
 let frames = framesPerLine * 3
+let greeting = Array("Hi, I'm Olaoluwa Moshood")
+let greetingHoldFrames = 8
 let outputURL = URL(fileURLWithPath: CommandLine.arguments.dropFirst().first ?? "assets/intro.gif")
 let colorSpace = CGColorSpaceCreateDeviceRGB()
 
@@ -115,7 +117,32 @@ func makeFrame(index: Int) -> CGImage {
 
     drawLogo(context: context, x: 54, y: 158, size: 54)
     _ = drawText("DELIGHTECH  /  PRODUCT ENGINEERING", context: context, x: 140, y: 242, size: 12, font: "AvenirNext-DemiBold", fill: lime, tracking: 1.25)
-    _ = drawText("Hi, I'm Olaoluwa Moshood", context: context, x: 138, y: 177, size: 43, font: "AvenirNext-DemiBold", fill: white)
+
+    let greetingFrame = index % frames
+    let typingEnd = greeting.count
+    let holdEnd = typingEnd + greetingHoldFrames
+    let eraseEnd = holdEnd + greeting.count
+    let visibleCharacters: Int
+    let caretIsVisible: Bool
+    if greetingFrame < typingEnd {
+        visibleCharacters = greetingFrame + 1
+        caretIsVisible = true
+    } else if greetingFrame < holdEnd {
+        visibleCharacters = greeting.count
+        caretIsVisible = greetingFrame % 8 < 5
+    } else if greetingFrame < eraseEnd {
+        visibleCharacters = greeting.count - (greetingFrame - holdEnd) - 1
+        caretIsVisible = true
+    } else {
+        visibleCharacters = 0
+        caretIsVisible = false
+    }
+
+    let visibleGreeting = String(greeting.prefix(max(0, visibleCharacters)))
+    let greetingWidth = drawText(visibleGreeting, context: context, x: 138, y: 177, size: 43, font: "AvenirNext-DemiBold", fill: white)
+    if caretIsVisible {
+        roundedRect(context, CGRect(x: 145 + greetingWidth, y: 167, width: 3, height: 44), radius: 1.5, fill: coral)
+    }
 
     let titles = [
         "Full-Stack Developer",
@@ -125,10 +152,17 @@ func makeFrame(index: Int) -> CGImage {
     let phase = index / framesPerLine
     let localFrame = index % framesPerLine
     let currentTitle = titles[phase]
-    let currentAlpha = phase == 0 && localFrame < fadeFrames ? 1 : (localFrame < fadeFrames ? CGFloat(localFrame) / CGFloat(fadeFrames) : 1)
+    let currentAlpha: CGFloat
+    if localFrame < fadeFrames {
+        currentAlpha = 0
+    } else if localFrame < fadeFrames * 2 {
+        currentAlpha = CGFloat(localFrame - fadeFrames) / CGFloat(fadeFrames)
+    } else {
+        currentAlpha = 1
+    }
     let currentWidth = drawText(currentTitle, context: context, x: 140, y: 111, size: 23, font: "AvenirNext-Medium", fill: lime, alpha: currentAlpha, tracking: 0.05)
 
-    if localFrame < fadeFrames && (phase > 0 || localFrame > 0) {
+    if localFrame < fadeFrames {
         let previousTitle = titles[(phase + titles.count - 1) % titles.count]
         let previousAlpha = 1 - CGFloat(localFrame) / CGFloat(fadeFrames)
         _ = drawText(previousTitle, context: context, x: 140, y: 111, size: 23, font: "AvenirNext-Medium", fill: lime, alpha: previousAlpha, tracking: 0.05)
