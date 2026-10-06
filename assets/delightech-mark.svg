@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
-  <rect x="2" y="2" width="60" height="60" rx="18" fill="#18211D" />
-  <path d="M39 13H31C20.507 13 12 21.507 12 32s8.507 19 19 19h8" stroke="#D0F766" stroke-width="5.5" stroke-linecap="round" />
-  <path d="M28 38 50 16M38 16h12v12" stroke="#ED684A" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">DelighTech logo</title>
+  <desc id="desc">Premium DelighTech brand mark with a lime monogram and coral accent.</desc>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="#18211D"/>
+  <rect x="6" y="6" width="52" height="52" rx="16" stroke="#D0F766" stroke-opacity="0.18"/>
+  <path d="M20 14v36h12.5c9.4 0 17-7.6 17-17s-7.6-19-17-19H20Z" stroke="#D0F766" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 19l18 13-18 13" stroke="#ED684A" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="47" cy="18" r="2.5" fill="#ED684A"/>
 </svg>

@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://www.delightech.net/"><img src="./assets/delightech-mark.svg" width="48" alt="DelighTech logo"></a>
-  <br><strong>DELIGHTECH</strong> &nbsp; <sub>INDEPENDENT SOFTWARE STUDIO</sub>
+  <a href="https://www.delightech.net/"><img src="./assets/delightech-mark.svg" width="56" alt="DelighTech logo"></a>
+  <br><strong>DELIGHTECH</strong>
+  <br><sub>PRODUCT DESIGN · FULL-STACK ENGINEERING · DIGITAL SYSTEMS</sub>
 </p>
 
 <p align="center">
@@ -13,7 +14,7 @@
   <a href="mailto:hello@delightech.net"><img src="https://img.shields.io/badge/PROJECTS-GET%20IN%20TOUCH-18211D?style=flat-square&labelColor=18211D&color=ED684A" alt="Contact DelighTech"></a>
 </p>
 
-I’m **Olaoluwa Moshood**, founder and product engineer at [DelighTech](https://www.delightech.net/). I work with businesses and product teams to turn complex needs into useful software—from early product decisions through full-stack delivery.
+I’m **Olaoluwa Moshood**, founder and product engineer at [DelighTech](https://www.delightech.net/). I design and build software products that help businesses move faster, work smarter, and deliver better digital experiences.
 
 <table>
   <tr>
