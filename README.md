@@ -62,19 +62,8 @@ I’m **Olaoluwa Moshood**, founder and product engineer at [DelighTech](https:/
 </p>
 <p align="center">
   <a href="https://github.com/myolaoluwa/Oracle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=Oracle&bg_color=18211D&title_color=D0F766&text_color=E5EAE5&icon_color=ED684A&hide_border=true" alt="Oracle — on-chain intelligence workspace" width="49%"></a>
-  <a href="https://github.com/myolaoluwa/EasyBuyNG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myolaoluwa&repo=EasyBuyNG&bg_color=18211D&title_color=D0F766&text_color=E5EAE5&icon_color=ED684A&hide_border=true" alt="EasyBuyNG — responsive client storefront" width="49%"></a>
+  <a href="https://www.delightech.net/work/cashflow"><img src="./assets/cashflow-card.svg" alt="Cashflow — business cashbooks with access controls and an Android app. Read the DelighTech case study." width="49%"></a>
 </p>
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <sub>DELIGHTECH PRODUCT / IN USE</sub><br>
-      <strong>Cashflow</strong><br>
-      Business cashbooks with member access controls and a Capacitor-based Android implementation.<br>
-      <a href="https://www.delightech.net/work/cashflow">Read the case study →</a>
-    </td>
-  </tr>
-</table>
 
 <details>
   <summary><strong>Project notes</strong></summary>
@@ -83,7 +72,7 @@ I’m **Olaoluwa Moshood**, founder and product engineer at [DelighTech](https:/
     <li><strong><a href="https://github.com/myolaoluwa/Elara">Elara</a></strong> — Executive operations across meetings, tasks, follow-ups, email, and AI-assisted workflows. <a href="https://www.delightech.net/work/elara">Case study</a></li>
     <li><strong><a href="https://github.com/myolaoluwa/Nomi">Nomi</a></strong> — A personal dashboard for finances, activities, tasks, habits, and goals. <a href="https://www.delightech.net/work/nomi">Case study</a></li>
     <li><strong><a href="https://github.com/myolaoluwa/Oracle">Oracle</a></strong> — An on-chain intelligence workspace; the public walkthrough uses sample data. <a href="https://www.delightech.net/work/oracle">Case study</a></li>
-    <li><strong><a href="https://github.com/myolaoluwa/EasyBuyNG">EasyBuyNG</a></strong> — A responsive client storefront. <a href="https://easy-buy-ng.vercel.app/">Live site</a></li>
+    <li><strong><a href="https://www.delightech.net/work/cashflow">Cashflow</a></strong> — Business cashbooks with access controls and an Android implementation. <a href="https://www.delightech.net/work/cashflow">Case study</a></li>
   </ul>
 </details>
 
